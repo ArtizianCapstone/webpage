@@ -51,7 +51,7 @@ class LandingPage extends Component {
             <Row>
               <Col md={12} sm={12}>
                 <div>
-                 
+
                 </div>
               </Col>
             </Row>
