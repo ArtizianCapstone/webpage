@@ -11,6 +11,10 @@ class AboutUsPage extends Component {
   constructor(props) {
     super(props);
   }
+  handleClick() {
+    // do something meaningful, Promises, if/else, whatever, and then
+    window.location.assign('https://github.com/ArtizianCapstone/frontend');
+  }
 
   render() {
     return (

@@ -6,6 +6,7 @@ import { Navbar, NavItem, Nav, Container, Row, Col } from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.css";
 import "bootswatch/dist/journal/bootstrap.css";
 
+
 var Terms = {
   title: "Terms",
 };
@@ -77,7 +78,9 @@ class App extends Component {
             </ul>
           </div>
           <button className="download" type="button">
+            <a className="download-link" href="https://github.com/ArtizianCapstone/frontend" target="_blank">
             Download
+            </a>
           </button>
         </Nav>
        </Navbar>
