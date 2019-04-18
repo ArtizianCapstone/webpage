@@ -22,6 +22,13 @@ class AboutUsPage extends Component {
             </div>
           </Row>
           <Row>
+            <div className="Mission">
+              <h2>Our mission is to connect artisans in developing countries with Amazon's existing consumer base of millions
+                in order to grow the artisan economy and provide Amazon customers a greater selection.
+              </h2>
+            </div>
+          </Row>
+          <Row>
             <div>
               <Timeline minEvents={3} placeholder>
                 <TimelineEvent

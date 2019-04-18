@@ -81,7 +81,9 @@ class App extends Component {
           </button>
         </Nav>
        </Navbar>
+        <div>
          <Page page={TABS[activePlace]}/>
+        </div>
       </div>
     );
   }
