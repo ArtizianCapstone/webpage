@@ -71,7 +71,7 @@ class App extends Component {
                   </li>
                 ))}
               <li>
-                <a className="nav-link" href="https://services.amazon.com/handmade/handmade.html">Handmade</a>
+                <a className="nav-link" href="https://services.amazon.com/handmade/handmade.html" target="_blank">Handmade</a>
               </li>
 
             </ul>
