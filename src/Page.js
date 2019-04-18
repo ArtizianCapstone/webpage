@@ -5,7 +5,7 @@ import PrivacyPage from './Privacypage';
 import LandingPage from './Landingpage';
 import React, { Component } from 'react';
 import { Navbar, NavItem, Nav, Container, Row, Col } from "react-bootstrap";
-
+import FeaturesPage from'./Featurespage'
 
 class Page extends Component {
   constructor(props) {
@@ -25,8 +25,10 @@ class Page extends Component {
       pagetype = <AmazonLinkerPage/>;}
     if (this.props.page.title === "Privacy Policy"){
       pagetype = <PrivacyPage/>;}
-    if (this.props.page.title === "Artizain - Handmade"){
+    if (this.props.page.title === "Home"){
       pagetype = <LandingPage/>;}
+    if (this.props.page.title === "Features") {
+      pagetype = <FeaturesPage/>;}
     return (
       <div className="TermsPage">
         <Container>
