@@ -28,8 +28,10 @@ class FeaturesPage extends Component {
       <div className="FeaturesPage">
         <Container>
           <Row>
-              <div className="Title">
-                <h1>Features</h1>
+              <div className="Title" align="left">
+                <h1>Features<br/></h1>
+                <h5>Wondering what sets the Amazon Handmade experience apart from Etsy? Its our attention usability, making
+                our products easy, functional, and customizable for you.<br/></h5>
               </div>
           </Row>
           <Row>

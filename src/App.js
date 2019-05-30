@@ -21,7 +21,7 @@ var Landing = {
 var Feature = {
   title: "Features",
 };
-const TABS = [Landing, Feature, Terms, Privacy, AboutUS];
+const TABS = [Landing, Terms, Privacy, AboutUS];
 
 /*{        <Nav
           variant="tabs"
