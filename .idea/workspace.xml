@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0f99778-a267-44fa-a7ef-af87f8189415" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aboutuspage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aboutuspage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Privacypage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Privacypage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Landingpage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Landingpage.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,10 +27,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Aboutuspage.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="67">
+            <state relative-caret-position="930">
               <caret line="62" column="80" selection-start-line="62" selection-start-column="80" selection-end-line="62" selection-end-column="80" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
@@ -43,11 +39,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Landingpage.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="279" column="94" selection-start-line="279" selection-start-column="79" selection-end-line="279" selection-end-column="94" />
+            <state relative-caret-position="142">
+              <caret line="102" column="113" selection-start-line="102" selection-start-column="113" selection-end-line="102" selection-end-column="113" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -139,6 +135,7 @@
       <find>What type</find>
       <find>a r</find>
       <find>a hre</find>
+      <find>p9</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -156,15 +153,15 @@
         <option value="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css" />
         <option value="$PROJECT_DIR$/src/Featurespage.js" />
         <option value="$PROJECT_DIR$/src/custom.css" />
-        <option value="$PROJECT_DIR$/src/Landingpage.js" />
         <option value="$PROJECT_DIR$/src/Privacypage.js" />
         <option value="$PROJECT_DIR$/src/Aboutuspage.js" />
+        <option value="$PROJECT_DIR$/src/Landingpage.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-181" />
-    <option name="y" value="106" />
+    <option name="x" value="97" />
+    <option name="y" value="400" />
     <option name="width" value="1207" />
     <option name="height" value="738" />
   </component>
@@ -247,15 +244,15 @@
       <workItem from="1555574463791" duration="10155000" />
       <workItem from="1555587432364" duration="5694000" />
       <workItem from="1555619885046" duration="3140000" />
-      <workItem from="1559191002830" duration="12309000" />
+      <workItem from="1559191002830" duration="12951000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38676000" />
+    <option name="totallyTimeSpent" value="39318000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-181" y="106" width="1207" height="738" extended-state="0" />
+    <frame x="-320" y="111" width="1207" height="738" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23271501" />
@@ -483,16 +480,6 @@
     <entry file="file://$PROJECT_DIR$/src/orange.gif">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Landingpage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="279" column="94" selection-start-line="279" selection-start-column="79" selection-end-line="279" selection-end-column="94" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/custom.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -502,8 +489,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Aboutuspage.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="67">
+        <state relative-caret-position="930">
           <caret line="62" column="80" selection-start-line="62" selection-start-column="80" selection-end-line="62" selection-end-column="80" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Landingpage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="102" column="113" selection-start-line="102" selection-start-column="113" selection-end-line="102" selection-end-column="113" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>

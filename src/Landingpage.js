@@ -9,17 +9,14 @@ import a1 from './artisan1.jpeg';
 import a2 from './artisan2.jpeg'
 import a3 from './artisan3.jpeg'
 import Carousel from 'react-bootstrap/Carousel'
-import p1 from "./anonwallet.jpg";
 import p2 from "./bowls.jpg";
 import p3 from "./flowersoappink.jpg";
 import p4 from "./greenwal.jpg";
 import p5 from "./initalwallet.jpg";
 import p6 from "./lightwal.jpg";
-import p7 from "./purplesoap.jpg";
 import p8 from "./redwal.jpg";
 import p9 from "./soapyellow.jpg";
 import p10 from "./stool.jpeg";
-import p11 from "./table.jpg";
 import rufus from "./rufus_balance.gif";
 import "./custom.css";
 import celebrate from "./celebrate.gif";
@@ -56,7 +53,7 @@ class LandingPage extends Component {
             <Row style={{backgroundImage:teal}}>
               <Col md={12} sm={12}>
                 <div className="LandingHeader" style={{backgroundImage:teal}}>
-                  <Carousel>
+                  <Carousel indicators={false}>
                     <Carousel.Item>
                       <img
                         className="d-block w-100"
@@ -88,91 +85,8 @@ class LandingPage extends Component {
 
                       </Carousel.Caption>
                     </Carousel.Item>
-                    <Carousel.Item>
-                      <img
-                        className="d-block w-100"
-                        src={p8}
-                        alt="Third slide"
-                      />
 
-                      <Carousel.Caption>
-                        <h1>Empower your community.</h1>
-                        <h3>Think your local artisans are creating great goods? We think so too. <br/>Reach millions of customers with Amazon
-                          Handmade today.</h3>
-                        <br/>
 
-                        <Button onClick={this.handleClick.bind(this)} align="centered">Let's Get Started</Button>
-
-                      </Carousel.Caption>
-                    </Carousel.Item>
-                    <Carousel.Item>
-                      <img
-                        className="d-block w-100"
-                        src= {p4}
-                        alt="First slide"
-                      />
-                      <Carousel.Caption>
-
-                        <h1>Empower your community.</h1>
-                        <h3>Think your local artisans are creating great goods? We think so too. <br/>Reach millions of customers with Amazon
-                          Handmade today.</h3>
-                        <br/>
-
-                        <Button onClick={this.handleClick.bind(this)} align="centered">Let's Get Started</Button>
-
-                      </Carousel.Caption>
-                    </Carousel.Item>
-                    <Carousel.Item>
-                      <img
-                        className="d-block w-100"
-                        src= {p5}
-                        alt="First slide"
-                      />
-                      <Carousel.Caption>
-
-                        <h1>Empower your community.</h1>
-                        <h3>Think your local artisans are creating great goods? We think so too. <br/>Reach millions of customers with Amazon
-                          Handmade today.</h3>
-                        <br/>
-
-                        <Button onClick={this.handleClick.bind(this)} align="centered">Let's Get Started</Button>
-
-                      </Carousel.Caption>
-                    </Carousel.Item>
-                    <Carousel.Item>
-                      <img
-                        className="d-block w-100"
-                        src= {p6}
-                        alt="First slide"
-                      />
-                      <Carousel.Caption>
-
-                        <h1>Empower your community.</h1>
-                        <h3>Think your local artisans are creating great goods? We think so too. <br/>Reach millions of customers with Amazon
-                          Handmade today.</h3>
-                        <br/>
-
-                        <Button onClick={this.handleClick.bind(this)} align="centered">Let's Get Started</Button>
-
-                      </Carousel.Caption>
-                    </Carousel.Item>
-                    <Carousel.Item>
-                      <img
-                        className="d-block w-100"
-                        src= {p7}
-                        alt="First slide"
-                      />
-                      <Carousel.Caption>
-
-                        <h1>Empower your community.</h1>
-                        <h3>Think your local artisans are creating great goods? We think so too. <br/>Reach millions of customers with Amazon
-                          Handmade today.</h3>
-                        <br/>
-
-                        <Button onClick={this.handleClick.bind(this)} align="centered">Let's Get Started</Button>
-
-                      </Carousel.Caption>
-                    </Carousel.Item>
                     <Carousel.Item>
                       <img
                         className="d-block w-100"
@@ -187,41 +101,6 @@ class LandingPage extends Component {
                         <br/>
 
                         <Button onClick={this.handleClick.bind(this)} align="centered">Let's Get Started</Button>
-
-                      </Carousel.Caption>
-                    </Carousel.Item>
-                    <Carousel.Item>
-                      <img
-                        className="d-block w-100"
-                        src= {p10}
-                        alt="First slide"
-                      />
-                      <Carousel.Caption>
-
-                        <h1>Empower your community.</h1>
-                        <h3>Think your local artisans are creating great goods? We think so too. <br/>Reach millions of customers with Amazon
-                          Handmade today.</h3>
-                        <br/>
-
-                        <Button onClick={this.handleClick.bind(this)} align="centered">Let's Get Started</Button>
-
-                      </Carousel.Caption>
-                    </Carousel.Item>
-                    <Carousel.Item>
-                      <img
-                        className="d-block w-100"
-                        src= {p11}
-                        alt="First slide"
-                      />
-                      <Carousel.Caption>
-
-                        <h1>Empower your community.</h1>
-                        <h3>Think your local artisans are creating great goods? We think so too. <br/>Reach millions of customers with Amazon
-                          Handmade today.</h3>
-                        <br/>
-
-                        <Button onClick={this.handleClick.bind(this)} align="centered">Let's Get Started</Button>
-
                       </Carousel.Caption>
                     </Carousel.Item>
                   </Carousel>
