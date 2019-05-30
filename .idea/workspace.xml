@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0f99778-a267-44fa-a7ef-af87f8189415" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/custom.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Featurespage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Featurespage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Landingpage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Landingpage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/artisanstab.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/artisanstab.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deleteArtisan.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/deleteArtisan.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homescreen.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/homescreen.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/listingPage.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/listingPage.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/rufus_balance.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/rufus_balance.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/rufusgif.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/rufusgif.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scheduleMeeting.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/scheduleMeeting.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aboutuspage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aboutuspage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Privacypage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Privacypage.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,20 +22,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="73" column="113" lean-forward="true" selection-start-line="73" selection-start-column="40" selection-end-line="73" selection-end-column="113" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Aboutuspage.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-56">
-              <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+            <state relative-caret-position="166">
+              <caret line="73" column="113" selection-start-line="73" selection-start-column="40" selection-end-line="73" selection-end-column="113" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -51,13 +32,24 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Landingpage.js">
+        <entry file="file://$PROJECT_DIR$/src/Aboutuspage.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="250" column="21" selection-start-line="250" selection-start-column="21" selection-end-line="250" selection-end-column="21" />
+            <state relative-caret-position="67">
+              <caret line="62" column="80" selection-start-line="62" selection-start-column="80" selection-end-line="62" selection-end-column="80" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
-                <element signature="e#1783#3614#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Landingpage.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="301">
+              <caret line="279" column="94" selection-start-line="279" selection-start-column="79" selection-end-line="279" selection-end-column="94" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -67,7 +59,7 @@
         <entry file="file://$PROJECT_DIR$/src/custom.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -75,8 +67,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LandingSlider.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="34" lean-forward="true" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+            <state relative-caret-position="355">
+              <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
               <folding>
                 <element signature="e#0#33#0" expanded="true" />
               </folding>
@@ -87,7 +79,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Termspage.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
+            <state relative-caret-position="230">
               <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
             </state>
           </provider>
@@ -96,8 +88,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Privacypage.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+            <state relative-caret-position="449">
+              <caret line="102" column="18" selection-start-line="98" selection-start-column="16" selection-end-line="102" selection-end-column="18" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -109,7 +101,7 @@
         <entry file="file://$PROJECT_DIR$/src/Featurespage.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-16">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -121,7 +113,7 @@
         <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95251">
-              <caret line="6413" column="7" lean-forward="true" selection-start-line="6413" selection-start-column="7" selection-end-line="6413" selection-end-column="7" />
+              <caret line="6413" column="7" selection-start-line="6413" selection-start-column="7" selection-end-line="6413" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -143,7 +135,10 @@
       <find>col</find>
       <find>Col</find>
       <find>.carousel-ca</find>
+      <find>collect</find>
+      <find>What type</find>
       <find>a r</find>
+      <find>a hre</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -157,20 +152,20 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/Termspage.js" />
         <option value="$PROJECT_DIR$/src/LandingSlider.js" />
-        <option value="$PROJECT_DIR$/src/Aboutuspage.js" />
-        <option value="$PROJECT_DIR$/src/Privacypage.js" />
         <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css" />
         <option value="$PROJECT_DIR$/src/Featurespage.js" />
         <option value="$PROJECT_DIR$/src/custom.css" />
         <option value="$PROJECT_DIR$/src/Landingpage.js" />
+        <option value="$PROJECT_DIR$/src/Privacypage.js" />
+        <option value="$PROJECT_DIR$/src/Aboutuspage.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-118" />
-    <option name="y" value="204" />
-    <option name="width" value="1280" />
+    <option name="x" value="-181" />
+    <option name="y" value="106" />
+    <option name="width" value="1207" />
     <option name="height" value="738" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -185,6 +180,11 @@
             <path>
               <item name="capstoneweb" type="b2602c69:ProjectViewProjectNode" />
               <item name="capstoneweb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="capstoneweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="capstoneweb" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="capstoneweb" type="b2602c69:ProjectViewProjectNode" />
@@ -214,6 +214,9 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/node_modules/slick-carousel/slick" />
     </key>
@@ -244,18 +247,18 @@
       <workItem from="1555574463791" duration="10155000" />
       <workItem from="1555587432364" duration="5694000" />
       <workItem from="1555619885046" duration="3140000" />
-      <workItem from="1559191002830" duration="7430000" />
+      <workItem from="1559191002830" duration="12309000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33797000" />
+    <option name="totallyTimeSpent" value="38676000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-118" y="204" width="1280" height="738" extended-state="0" />
+    <frame x="-181" y="106" width="1207" height="738" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2192216" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23271501" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -308,7 +311,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/Privacypage.js</url>
-          <line>10</line>
+          <line>13</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
@@ -401,35 +404,8 @@
     <entry file="file://$PROJECT_DIR$/node_modules/slick-carousel/slick/slick-theme.scss">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Privacypage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/anonwallet.jpg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Termspage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LandingSlider.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="34" lean-forward="true" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/bootswatch/dist/journal/_bootswatch.scss">
       <provider selected="true" editor-type-id="text-editor">
@@ -450,14 +426,67 @@
     <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95251">
-          <caret line="6413" column="7" lean-forward="true" selection-start-line="6413" selection-start-column="7" selection-end-line="6413" selection-end-column="7" />
+          <caret line="6413" column="7" selection-start-line="6413" selection-start-column="7" selection-end-line="6413" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Featurespage.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-16">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="73" column="113" selection-start-line="73" selection-start-column="40" selection-end-line="73" selection-end-column="113" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LandingSlider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Termspage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/flowersoappink.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Privacypage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="102" column="18" selection-start-line="98" selection-start-column="16" selection-end-line="102" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/orange.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Landingpage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="279" column="94" selection-start-line="279" selection-start-column="79" selection-end-line="279" selection-end-column="94" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
@@ -467,37 +496,16 @@
     <entry file="file://$PROJECT_DIR$/src/custom.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="73" column="113" lean-forward="true" selection-start-line="73" selection-start-column="40" selection-end-line="73" selection-end-column="113" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Aboutuspage.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-56">
-          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+        <state relative-caret-position="67">
+          <caret line="62" column="80" selection-start-line="62" selection-start-column="80" selection-end-line="62" selection-end-column="80" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Landingpage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="250" column="21" selection-start-line="250" selection-start-column="21" selection-end-line="250" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-            <element signature="e#1783#3614#0" />
           </folding>
         </state>
       </provider>
