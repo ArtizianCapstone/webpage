@@ -6,7 +6,6 @@ import { Navbar, NavItem, Nav, Container, Row, Col } from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.css";
 import "bootswatch/dist/journal/bootstrap.css";
 
-
 var Terms = {
   title: "Terms",
 };

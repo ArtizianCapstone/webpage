@@ -6,6 +6,9 @@ import Home from "./homescreen.png";
 import Art from "./artisanstab.gif";
 import Listen from "./listingPage.png";
 import Sched from "./scheduleMeeting.png";
+import rufus from "./rufus_balance.gif";
+
+
 
 class FeaturesPage extends Component {
   constructor(props) {
@@ -16,6 +19,11 @@ class FeaturesPage extends Component {
   }
 
   render() {
+    const homel = [Home]
+    const artl = [Art]
+    const ll = [Listen]
+    const sl = [Sched]
+
     return (
       <div className="FeaturesPage">
         <Container>
@@ -34,13 +42,25 @@ class FeaturesPage extends Component {
                 </ul>
               </Col>
               <Col md={6} sm={6}>
-                <img  source = {"./homescreen.png"}/>
+                <div>
+                  <img
+                    className="d-block w-100"
+                    src={Sched}
+                    alt="Third slide"
+                  />
+                </div>
               </Col>
             </div>
           </Row>
           <Row>
             <Col md={6} sm={6}>
-              <img source = {Sched}/>
+              <div>
+                <img
+                  className="d-block w-100"
+                  src={Art}
+                  alt="Third slide"
+                />
+              </div>
             </Col>
             <Col md={6} sm={6}>
               <h2>Connect quickly and painlessly with artisans</h2>
@@ -61,11 +81,21 @@ class FeaturesPage extends Component {
                 </ul>
             </Col>
             <Col md={6} sm={6}>
-              <img source={Art}/>
+              <div>
+                <img
+                  className="d-block w-100"
+                  src={Art}
+                  alt="Third slide"
+                />
+              </div>
             </Col>
           <Row>
             <Col md={6} sm={6}>
-              <img source={Listen}/>
+              <img
+                className="d-block w-100"
+                src={Listen}
+                alt="Third slide"
+              />
             </Col>
             <Col md={6} sm={6}>
               <h2>Mange your listings live!</h2>
